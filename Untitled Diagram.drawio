@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T02:05:56.456Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="IQ8c8Sy09zGHe70eFDhT" version="20.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-22T02:34:04.676Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="EybbVLqrscA_rGUo-Wih" version="20.0.2" type="github">
   <diagram id="rRk1YLnxKAkefXXbhIdf" name="Page-1">
-    <mxGraphModel dx="985" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2052" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZWIXfmPhPXH5TYkDACbg-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="30" width="530" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWIXfmPhPXH5TYkDACbg-8" value="eureka" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZWIXfmPhPXH5TYkDACbg-1">
+          <mxGeometry x="290" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWIXfmPhPXH5TYkDACbg-12" value="zuul网关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZWIXfmPhPXH5TYkDACbg-1">
+          <mxGeometry x="440" y="65" width="30" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWIXfmPhPXH5TYkDACbg-13" value="auth" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZWIXfmPhPXH5TYkDACbg-1">
+          <mxGeometry x="200" y="60" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWIXfmPhPXH5TYkDACbg-2" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="40" width="550" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWIXfmPhPXH5TYkDACbg-10" value="株洲池" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="35" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZWIXfmPhPXH5TYkDACbg-11" value="南基池" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="45" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
